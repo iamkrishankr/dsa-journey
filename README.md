@@ -5,4 +5,6 @@ I will try to solve the most important problems asked in interviews.
 
 # List of problems solved
 
-- [Two Sum](./Array/two_sum.js)
+## Array
+
+- [Two Sum](./Array/two-sum.js)
